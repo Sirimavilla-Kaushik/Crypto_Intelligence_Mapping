@@ -1,0 +1,106 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13-Oct-2025, 14:14:53
+    Author     : user
+*/
+
+/* ===== User Approval Page Styling ===== */
+
+ .card1 {
+            display: flex;
+            align-items: center;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            margin-bottom: 30px;
+            background-color: #fff;
+            width: 100%;
+            padding: 20px;
+
+        }
+
+        .card1:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Service Image Styling */
+        .card1-image img {
+            width: 300px;
+            height: 220px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-right: 20px;
+        }     
+
+
+
+
+        /* Image Section */
+        .card1-image {
+            flex: 1;
+            text-align: center;
+        }
+
+        /* Content Section */
+        .card1-content {
+            flex: 2;
+            padding-left: 20px;
+        }
+
+        .card1-content p {
+            margin: 5px 0;
+            font-size: 14px;
+            color: #333;
+            font-size: 18px;
+            line-height: 2rem;
+        }
+
+        .card1-content strong {
+            color: #000;
+        }
+
+       
+
+        /* Optional: Space between buttons */
+        .card-actions span {
+            font-size: 18px;
+            margin: 0 10px;
+            color: #6c757d;
+        }
+         table {
+                width: 80%;
+                border-collapse: collapse;                
+                margin-top: 20px;
+                background: white;
+                box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
+                
+            }
+            th, td {
+                padding: 10px;
+                border: 1px solid #ccc;
+                text-align: center;
+            }
+            th {
+                background: #0563db;
+                color: white;
+            }
+            tr:nth-child(even) {
+                background: #f9f9f9;
+            }
+            .flagged {
+                color: red;
+                font-weight: bold;
+            }
+            .header-title {
+            
+            text-align:center; 
+            margin: 20px;
+            color: blue;
+        }
