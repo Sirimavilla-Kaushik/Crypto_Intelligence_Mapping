@@ -258,7 +258,9 @@ Apache Tomcat
 MySQL
 Ganache
 MetaMask
+
 Step 1 — Clone the Repository
+
 git clone https://github.com/Sirimavilla-Kaushik/Crypto_Intelligence_Mapping.git
 
 Step 2 — Import the Project
@@ -270,6 +272,7 @@ Step 3 — Configure MySQL
 Create the required database and import:
 
 Correct DB/New Project 20260120 1732.sql
+
 Step 4 — Configure Database Connection
 
 Update the database connection settings according to your local MySQL configuration.
