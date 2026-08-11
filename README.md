@@ -260,6 +260,7 @@ Ganache
 MetaMask
 Step 1 — Clone the Repository
 git clone https://github.com/Sirimavilla-Kaushik/Crypto_Intelligence_Mapping.git
+
 Step 2 — Import the Project
 
 Open the project in Apache NetBeans.
